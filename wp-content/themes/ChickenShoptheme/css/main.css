@@ -90,7 +90,7 @@ footer {
 }
 
 footer .container {
-  max-width: 1200px; /* Limit the width of the content */
+  max-width: 100%; /* Limit the width of the content */
   margin: 0 auto; /* Center the container */
   display: flex;
   flex-direction: column;
@@ -136,3 +136,76 @@ footer p {
   font-size: 14px;
   color: #a1a1a1; /* Slightly lighter color for copyright text */
 }
+
+.badge.rounded-pill {
+  border-radius: 50rem !important; /* Ensures the pill shape */
+}
+.text-bg-info {
+  background-color: #0dcaf0 !important; /* Forces light-blue info badge */
+  color: #000 !important;
+}
+
+/* Comments  */
+
+#comment {
+    width: 100%;
+    height: 200px;
+    border-radius:  8px;
+}
+
+ 
+ /* Basic Button Styling */
+.submit {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#reply-title {
+    margin-top: 50px;
+}
+
+/* Hover State */
+.submit:hover, .btn:hover {
+  background-color: #0056b3;
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+/* Active State */
+.submit:active, .btn:active {
+  background-color: #004085;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.2);
+  transform: translateY(0);
+}
+
+/* Disabled State */
+button:disabled, .btn:disabled {
+  background-color: #c0c0c0;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+#respond {
+    background: #dfe0e2;
+    padding: 2rem;
+    border-radius: 16px;
+    margin-top: 2rem;
+}
+
+
+ .img {
+    height: 800px;
+    width: 100%;
+    object-fit: fill;
+ }
