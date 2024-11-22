@@ -1,0 +1,218 @@
+
+21-11-2024 17:26:23 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:26:23 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+21-11-2024 17:27:35 [localhost][info] START generate in mode:  find
+21-11-2024 17:27:35 [localhost][info] Posts query: array (
+  'has_thumb' => '1',
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:27:35 [localhost][info] Queried posts IDs:  75
+-------------------------------
+21-11-2024 17:27:38 [localhost][info] START generate in mode:  find
+21-11-2024 17:27:38 [localhost][info] Posts query: array (
+  'has_thumb' => '0',
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:27:38 [localhost][info] Queried posts IDs:  79,80,81,75
+-------------------------------
+21-11-2024 17:27:38 [localhost][info] --Start processing post ID = 79
+21-11-2024 17:27:38 [localhost][debug] Found images: array (
+)
+21-11-2024 17:27:38 [localhost][info] --End processing post ID = 79
+-------------------------------
+21-11-2024 17:27:38 [localhost][info] --Start processing post ID = 80
+21-11-2024 17:27:38 [localhost][debug] Found images: array (
+)
+21-11-2024 17:27:38 [localhost][info] --End processing post ID = 80
+-------------------------------
+21-11-2024 17:27:39 [localhost][info] --Start processing post ID = 81
+21-11-2024 17:27:39 [localhost][debug] Found images: array (
+)
+21-11-2024 17:27:39 [localhost][info] --End processing post ID = 81
+-------------------------------
+21-11-2024 17:27:39 [localhost][info] --Start processing post ID = 75
+21-11-2024 17:27:39 [localhost][debug] Found images: array (
+)
+21-11-2024 17:27:39 [localhost][info] --End processing post ID = 75
+-------------------------------
+21-11-2024 17:28:00 [localhost][warning] The post (75) has already been assigned a featured image
+21-11-2024 17:28:00 [localhost][warning] The post (75) has already been assigned a featured image
+-------------------------------
+21-11-2024 17:30:24 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:30:24 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+21-11-2024 17:30:27 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:30:27 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+21-11-2024 17:30:31 [localhost][info] START generate in mode:  find
+21-11-2024 17:30:31 [localhost][info] Posts query: array (
+  'has_thumb' => '0',
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:30:31 [localhost][info] Queried posts IDs:  79,80,81
+-------------------------------
+21-11-2024 17:30:31 [localhost][info] --Start processing post ID = 79
+21-11-2024 17:30:31 [localhost][debug] Found images: array (
+)
+21-11-2024 17:30:31 [localhost][info] --End processing post ID = 79
+-------------------------------
+21-11-2024 17:30:31 [localhost][info] --Start processing post ID = 80
+21-11-2024 17:30:31 [localhost][debug] Found images: array (
+)
+21-11-2024 17:30:31 [localhost][info] --End processing post ID = 80
+-------------------------------
+21-11-2024 17:30:31 [localhost][info] --Start processing post ID = 81
+21-11-2024 17:30:31 [localhost][debug] Found images: array (
+)
+21-11-2024 17:30:31 [localhost][info] --End processing post ID = 81
+-------------------------------
+21-11-2024 17:36:15 [localhost][info] START generate in mode:  find
+21-11-2024 17:36:15 [localhost][info] Posts query: array (
+  'has_thumb' => '0',
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:36:15 [localhost][info] Queried posts IDs:  79,80,81
+-------------------------------
+21-11-2024 17:36:15 [localhost][info] --Start processing post ID = 79
+21-11-2024 17:36:15 [localhost][debug] Found images: array (
+)
+21-11-2024 17:36:15 [localhost][info] --End processing post ID = 79
+-------------------------------
+21-11-2024 17:36:15 [localhost][info] --Start processing post ID = 80
+21-11-2024 17:36:15 [localhost][debug] Found images: array (
+)
+21-11-2024 17:36:15 [localhost][info] --End processing post ID = 80
+-------------------------------
+21-11-2024 17:36:15 [localhost][info] --Start processing post ID = 81
+21-11-2024 17:36:15 [localhost][debug] Found images: array (
+)
+21-11-2024 17:36:15 [localhost][info] --End processing post ID = 81
+-------------------------------
+21-11-2024 17:40:14 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:40:14 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+21-11-2024 17:41:02 [localhost][info] Posts query: array (
+  'has_thumb' => false,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:41:02 [localhost][info] Posts query: array (
+  'has_thumb' => true,
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+-------------------------------
+21-11-2024 17:41:04 [localhost][info] START generate in mode:  find
+21-11-2024 17:41:04 [localhost][info] Posts query: array (
+  'has_thumb' => '0',
+  'type' => true,
+  'status' => 'post',
+  'category' => 0,
+  'date_start' => 0,
+  'date_end' => 0,
+)
+21-11-2024 17:41:04 [localhost][info] Queried posts IDs:  79,80,81
+-------------------------------
+21-11-2024 17:41:05 [localhost][info] --Start processing post ID = 79
+21-11-2024 17:41:05 [localhost][debug] Found images: array (
+)
+21-11-2024 17:41:05 [localhost][info] --End processing post ID = 79
+-------------------------------
+21-11-2024 17:41:05 [localhost][info] --Start processing post ID = 80
+21-11-2024 17:41:05 [localhost][debug] Found images: array (
+)
+21-11-2024 17:41:05 [localhost][info] --End processing post ID = 80
+-------------------------------
+21-11-2024 17:41:05 [localhost][info] --Start processing post ID = 81
+21-11-2024 17:41:05 [localhost][debug] Found images: array (
+)
+21-11-2024 17:41:05 [localhost][info] --End processing post ID = 81
+-------------------------------
+21-11-2024 17:49:35 [localhost][warning] The post (81) has already been assigned a featured image
+21-11-2024 17:49:35 [localhost][warning] The post (81) has already been assigned a featured image
+-------------------------------
+21-11-2024 17:49:49 [localhost][warning] The post (80) has already been assigned a featured image
+21-11-2024 17:49:49 [localhost][warning] The post (80) has already been assigned a featured image
+-------------------------------
+21-11-2024 17:50:05 [localhost][warning] The post (79) has already been assigned a featured image
+21-11-2024 17:50:05 [localhost][warning] The post (79) has already been assigned a featured image
+-------------------------------
